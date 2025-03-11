@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '45 21 * * *'
   workflow_dispatch:
-    branches:
+    分支:
       - main
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.10'
+        python-version: '3.40'
 
     - name: Cache dependencies
       uses: actions/cache@v3
