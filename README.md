@@ -8,8 +8,8 @@
 ## 直播源调用地址
 - 国内M3U [每三日更新](http://175.178.251.183:6689/live.m3u)
 - 国内TXT [每三日更新](http://175.178.251.183:6689/live.txt)
-- 仓库文件加速 [线路1](https://gh.con.sh/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u)
-- 仓库文件加速 [线路2](https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u)
+- 仓库文件加速 [线路1](https://gh.con.sh/https://raw.githubusercontent.com/w1tv/IPTV/main/live.m3u)
+- 仓库文件加速 [线路2](https://cdn.jsdelivr.net/gh/w1tv/IPTV@latest/live.m3u)
 
 #
 ![image](/image/Screenshot_2024-07-24-21-20-39-458_com.github.tvbox.osc.tk.jpg)
@@ -22,7 +22,7 @@
    > 查看当前网络是否支持IPV6 [IP](https://ipw.cn)
 
 # 感谢您的支持与打赏
-![打赏图](https://raw.githubusercontent.com/yuanzl77/zafu/main/打赏码.png)
+![打赏图](https://raw.githubusercontent.com/w1tv/zafu/main/打赏码.png)
 **您的打赏不仅是对我的肯定，更是我前进的动力，感谢您的支持！**
 
 ## Star History
