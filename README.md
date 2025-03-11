@@ -4,10 +4,9 @@
 ## TVBox
 - 导航:
 ```bash
-https://w1tv.github.io/TV
-```
+https://w1tv.github.io/TV ```
 - 极速2G2H:
-  http://175.178.251.183:6689/tv.txt
+http://175.178.251.183:6689/tv.txt
   > 不了解TVBox，请自行了解(b站有教学)
 ## 直播源调用地址
 - 国内M3U [每三日更新](http://175.178.251.183:6689/live.m3u)
