@@ -2,7 +2,7 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '45 21 * * *'
+    - cron: '00 00 * * *'
   workflow_dispatch:
     分支:
       - main
@@ -18,7 +18,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.40'
+        python-version: '3.1.4'
 
     - name: Cache dependencies
       uses: actions/cache@v3
