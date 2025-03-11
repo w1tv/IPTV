@@ -2,9 +2,9 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '00 00 * * *'
+    - cron: '45 21 * * *'
   workflow_dispatch:
-    分支:
+    branches:
       - main
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
     - name: Run Python script
       run: python main.py
 
-    - name: Commit 和 push if changed
+    - name: Commit and push if changed
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
